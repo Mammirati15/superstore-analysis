@@ -5,9 +5,12 @@
 The goal of this project is to analyze sales data from a fictional SuperStore in order to identify key trends, patterns, and opportunities for business improvement. The analysis will explore sales performance by region, product category, customer segment, and other relevant dimensions to answer important business questions such as:
 
 - Which product categories and sub-categories are most profitable?
+- How are sales changing over time.
+- Do discounts offered drive sales?
 - What regions and customer segments drive the most sales?
 - Are there shipping modes or discount patterns that negatively impact profit?
 - Can we identify any trends that would inform inventory, marketing, or operational decisions?
+- Are there clear risks or inefficiencies that could be addressed to drive better performance. 
 
 ## Dataset
 
